@@ -1,0 +1,26 @@
+{
+  "name": "blox-api",
+  "version": "1.0.0",
+  "description": "A powerful Node.js wrapper for Roblox API with TypeScript supports.",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "roblox",
+    "api",
+    "typescript",
+    "ts",
+    "javascript",
+    "js"
+  ],
+  "author": "ilyes_hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
