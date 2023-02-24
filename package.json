@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A powerful Node.js wrapper for Roblox API with TypeScript supports.",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/hernandez-ilyes/blox-api"
+  },
   "scripts": {
     "dev": "nodemon src/index.ts",
     "build": "tsc"
